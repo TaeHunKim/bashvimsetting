@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/rapaellk_pc/wafflestudy/wafflestudy/jsstudy/euler'
+let g:netrw_dirhist_2='/home/rapaellk_pc/wafflestudy/wafflestudy/jsstudy'
+let g:netrw_dirhist_3='/home/rapaellk_pc/wafflestudy/wafflestudy/jsstudy/euler'
