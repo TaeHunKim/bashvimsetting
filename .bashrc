@@ -45,3 +45,5 @@ if [ -f /etc/bash_completion ]; then
 fi
 
 export USE_CCACHE=1
+export CCACHE_DIR=/media/TaintDroid/.ccache
+
